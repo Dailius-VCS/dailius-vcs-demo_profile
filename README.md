@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=dailius-vcs&base=100&abbreviated=true)
 
-![LinkedIn](https://www.linkedin.com/in/dailiusrascius/)
-![My portfolio](https://dailius-vcs.github.io/)
+[LinkedIn](https://www.linkedin.com/in/dailiusrascius)   
+[My portfolio](https://dailius-vcs.github.io/)
 
 > "Ensuring quality is not just a job, it's a passion."
 
